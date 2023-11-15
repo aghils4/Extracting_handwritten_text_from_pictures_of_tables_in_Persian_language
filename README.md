@@ -1,0 +1,1 @@
+# Extracting_handwritten_text_from_pictures_of_tables_in_Persian_language
